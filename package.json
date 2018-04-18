@@ -1,0 +1,14 @@
+{
+  "name": "@madeinthe90s/Forex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {},
+  "dependencies": {}
+}
